@@ -1,0 +1,18 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureSearchOpenAIDemo.Api", "AzureSearchOpenAIDemo.Api/AzureSearchOpenAIDemo.Api.csproj", "{BD9A82C6-1B32-4F4D-8D39-4E95A0ECB506}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {BD9A82C6-1B32-4F4D-8D39-4E95A0ECB506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {BD9A82C6-1B32-4F4D-8D39-4E95A0ECB506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {BD9A82C6-1B32-4F4D-8D39-4E95A0ECB506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {BD9A82C6-1B32-4F4D-8D39-4E95A0ECB506}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+EndGlobal
